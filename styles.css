@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+
+.container{
+	height: 100px;
+    width: 300px;
+    background: #d3d3d4;
+    border: 2px solid black;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-1{
+	height:50px;
+	width:50px;
+	background:green;
+	border-radius:50%;
+	margin:4px;
+}
+.block-2{
+	height:50px;
+	width:50px;
+	background:yellow;
+	border-radius:50%;
+	margin:4px;
+}
+.block-3{
+	height:50px;
+	width:50px;
+	background:red;
+	border-radius:50%;
+	margin:4px;
+}
